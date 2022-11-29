@@ -3,7 +3,7 @@ This repository contains the scripts to handle pepper movement for my Master The
 # Additional Material
 - [Unreal Projects](https://unigeit-my.sharepoint.com/:f:/g/personal/s5050695_studenti_unige_it/Err9H7kpQHlItJdDqEp7jvUBUbU8oZARRXWF8uINtnsbSA?e=RcjCUH). If the project is not available contact me.
 - [Zed Camera Modified Repository](https://github.com/jacopociro/ZED-Oculus_Rift-IP)
-#Prerequisites
+# Prerequisites
 To run these tests you need various applications, such as the Oculus app, KATIO,
 Unreal Engine 4.20 with the KatWalk, the UDP and the Virtual Reality plugins,
 Python2 and Steam with the SteamVR plugin.
