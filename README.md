@@ -12,7 +12,7 @@ the Oculus Virtual Reality(OVR) for both C plus plus and python, which uses a
 wrapper.
 Follow the instruction on the ZED camera Modified Repository to see how to build the applications.
 # Experiment Procedure
-This procedure is also explained on my [Master Thesis], contact me for the PDF file.
+This procedure is also explained on my [Master Thesis](https://unigeit-my.sharepoint.com/:b:/g/personal/s5050695_studenti_unige_it/EfIUiSdHC8VHr48WIcW8IxgBRkXPpD-oef2bUbKahLF1Yw?e=w8INK8), contact me for the PDF file if the the file is not available.
 
 1. Mount the ZED mini stereocamera on Pepper's head in a stable way.
 2. Start up the KatWalk Mini by connecting the cord to the power socket.
@@ -28,6 +28,9 @@ This procedure is also explained on my [Master Thesis], contact me for the PDF f
 12. From the ZED camera launch the streaming sender application.
 13. Back from the computer launch the ZED-Oculus application to visualize the stream on the Oculus.
 14. When the partecipant is able to see the feedback of the camera, they can start moving around.
+
+## Contact
+Developer: Jacopo Ciro Soncini jacopo.ciro.soncini@edu.unige.it
 
 
 
